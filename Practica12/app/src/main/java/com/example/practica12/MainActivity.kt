@@ -12,8 +12,7 @@ import com.example.practica12.presentation.*
 class MainActivity : ComponentActivity() {
 
     private val viewModel: PokeViewModel by viewModels()
-
-    override fun onCreate(savedInstanceState: Bundle?) {
+aq
         super.onCreate(savedInstanceState)
 
         setContent {
